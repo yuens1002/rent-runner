@@ -1,0 +1,28 @@
+# Node
+node_modules/
+npm-debug.log*
+.pnpm-debug.log*
+
+# Next.js
+.next/
+out/
+build/
+
+# Env
+.env
+.env*.local
+
+# Vercel
+.vercel
+
+# Drizzle
+drizzle/meta/
+
+# Claude Code local overrides (not shared with the team)
+.claude/settings.local.json
+.claude/.precheck-stamp
+.claude/.release-fingerprint
+
+# Misc
+.DS_Store
+*.log
